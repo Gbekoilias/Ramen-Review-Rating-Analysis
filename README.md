@@ -10,3 +10,4 @@ After cleaning and transforming the dataset, it was loaded into Jupyter Notebook
 The insights uncovered in the **Ramen Review Rating Analysis** Report included the dominance of **Japan** and **South Korea** in the ramen market, the unique opportunity for **US** companies in bar and can formats, the correlation between the *variety* of ramen products and the number of review ratings, and the uneven distribution of the ramen manufacturing industry internationally, with countries in *Asia* having a significant advantage.
 
 Overall, the **Ramen Review Rating Analysis Report** provides valuable insights into the ramen market and can be useful for individuals and companies in the food industry who are interested in understanding consumer preferences and trends in this popular food category.
+(https://img.shields.io/github/languages/count/{Gbekoilias}/{Ramen-Review-Rating-Analysis})
