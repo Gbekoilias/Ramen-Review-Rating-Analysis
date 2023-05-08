@@ -1,3 +1,5 @@
+![th (1)](https://user-images.githubusercontent.com/89352799/236898812-5c21c979-af74-4fe9-a6a2-bc08d6b6bb7d.jpg)
+![th (2)](https://user-images.githubusercontent.com/89352799/236898844-f88929ca-4c5a-4dcb-b7f8-158ac20dd052.jpg)
 # Ramen-Review-Rating-Analysis
 Analyzed 2.5k Ramen Reviews to uncover market insights: Japan &amp; South Korea dominate, US has unique opportunity in bar/can formats. Used Power Query Editor &amp; Jupyter Notebook for data cleaning/analysis. Visualized data through pivot charts/tables
 The Ramen Review Rating Analysis Report is a project that aims to uncover insights and observations about the ramen market based on a dataset of over 2,500 ramen product reviews. The dataset was sourced from Kaggle and was provided by The Ramen Rater, a product review website for ramen enthusiasts.
