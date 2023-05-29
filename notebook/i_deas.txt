@@ -1,0 +1,22 @@
+This dataset consists of most countries ramen rater reviews.
+Some avenues of exploration on it include:
+1.What country produces the highest amount of ramen products
+2.Whats the country with the highest rating products
+3.Does the style of the product affects the score directly, does a certain kind of product style means a lower score?
+4.Is there a significant difference between brand average scores?
+
+* What ingredients or flavors are most commonly advertised on ramen package labels?
+* How do ramen ratings compare against ratings for other food products (like, say, wine)?
+* How is ramen manufacturing internationally distributed?
+
+* Which Style is mostly preferred by Country
+
+
+
+Review Ranking    2580
+Brand              350
+Variety           2405
+Style                7
+Country             37
+Stars                6
+Continentals         6
