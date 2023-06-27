@@ -34,8 +34,14 @@
 </p>
 <p style="font-size:35px;">
  1. It is clear that Japan and South Korea are the dominant producers of reviewed products, with an average review rating of 4 and 3, respectively. This indicates that these countries have a strong presence in the ramen market and may be key players in the industry.
+</p>
+<p style="font-size:35px;">
 2. Furthermore, it is noteworthy that the ramen manufacturing industry is not evenly distributed internationally. In fact, the dataset reveals that countries in Asia have a significant advantage, with a 62% dominance in the reviewed ramen products. This suggests that the ramen market is heavily concentrated in this region, and that companies looking to expand globally should consider the unique challenges and opportunities of this market.
+</p>
+<p style="font-size:35px;">
 3. The analysis of the reviewed ramen products dataset indicates a strong correlation between a country's variety of ramen products and the number of review ratings it receives. This suggests that countries with a more diverse ramen market may have higher levels of consumer engagement. As such, companies operating in the ramen market should consider expanding their product lines to drive increased consumer interest and loyalty.
+</p>
+<p style="font-size:35px;">
 4. The United States is the only country that produces and sells ramen products in bar and can formats. Interestingly, these products also receive high ratings from reviewers.
 This insight suggests that there may be an opportunity for companies in the United States to differentiate themselves in the ramen market by focusing on bar and can formats. Additionally, this finding may indicate a gap in the ramen market globally, with potential for growth and expansion in these specific product formats.
 </p>
