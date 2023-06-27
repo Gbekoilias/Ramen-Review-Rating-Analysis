@@ -1,5 +1,8 @@
-![th (1)](https://user-images.githubusercontent.com/89352799/236898812-5c21c979-af74-4fe9-a6a2-bc08d6b6bb7d.jpg)
-![th (2)](https://user-images.githubusercontent.com/89352799/236898844-f88929ca-4c5a-4dcb-b7f8-158ac20dd052.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89352799/236898812-5c21c979-af74-4fe9-a6a2-bc08d6b6bb7d.jpg" alt="Alt Text">
+</p>
+
+
 # Ramen-Review-Rating-Analysis
 The Ramen Review Rating Analysis Report 📊 is a project  that aims to uncover insights and observations about the ramen 🍜 market based on a dataset of over *2,500* ramen product reviews. The dataset 🗃️ was sourced from [*Kaggle*](https://www.kaggle.com/) and was provided by [**The Ramen Rater**](https://www.kaggle.com/datasets/residentmario/ramen-ratings/discussion/191547), a product 🏪 review website for ramen enthusiasts.
 
