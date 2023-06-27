@@ -47,7 +47,9 @@ This insight suggests that there may be an opportunity for companies in the Unit
 </p>
 
 ## Review Dashboard
-![alt text](https://github.com/Gbekoilias/Ramen-Review-Rating-Analysis/blob/9d9e4afff6c33224fe76775082814d1f377160d8/dashboard/Screenshot%20(17).png)
+<p align="center">
+  <img src="https://github.com/Gbekoilias/Ramen-Review-Rating-Analysis/blob/9d9e4afff6c33224fe76775082814d1f377160d8/dashboard/Screenshot%20(17).png" alt="Alt Text">
+</p>
 
 ## Conclusion
 <p style="font-size:35px;">
