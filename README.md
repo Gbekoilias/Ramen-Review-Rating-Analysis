@@ -2,8 +2,11 @@
   <img src="https://user-images.githubusercontent.com/89352799/236898812-5c21c979-af74-4fe9-a6a2-bc08d6b6bb7d.jpg" alt="Alt Text">
 </p>
 
+<h1 align="center">
+  Ramen Rating Review Analysis
+</h1>
 
-# Ramen-Review-Rating-Analysis
+
 The Ramen Review Rating Analysis Report 📊 is a project  that aims to uncover insights and observations about the ramen 🍜 market based on a dataset of over *2,500* ramen product reviews. The dataset 🗃️ was sourced from [*Kaggle*](https://www.kaggle.com/) and was provided by [**The Ramen Rater**](https://www.kaggle.com/datasets/residentmario/ramen-ratings/discussion/191547), a product 🏪 review website for ramen enthusiasts.
 
 The project began with a thorough examination of the dataset to obtain a first-hand understanding of its contents 📦 and notable observations. The dataset was then loaded into Power Query Editor to clean 🧼 and transform  it by removing redundancies, such as the "Top Ten*" column 🧮 which had **70%** unfilled fields, removing duplicates, and replacing error cells in the **Style** and **Stars** ⭐ columns with the mode and mean respectively. All data types were also changed into their standard and desired format.
