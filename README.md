@@ -10,22 +10,22 @@
 
 ## Aim of the project
 <p style="font-size:35px;">
-  The Ramen Review Rating Analysis Report 📊 is a project  that aims to uncover insights and observations about the ramen 🍜 market based on a dataset of over *2,500* ramen product reviews.
+  <b>The Ramen Review Rating Analysis Report</b> 📊 is a project  that aims to uncover insights and observations about the ramen 🍜 market based on a dataset of over <b>2,500</b> ramen product reviews.
 </p>
 
 ## Data Sourcing
 <p style="font-size:45px;">
- The dataset 🗃️ was sourced from [*Kaggle*](https://www.kaggle.com/) and was provided by [**The Ramen Rater**](https://www.kaggle.com/datasets/residentmario/ramen-ratings/discussion/191547), a product 🏪 review website for ramen enthusiasts.
+ The dataset 🗃️ was sourced from [<strong>Kaggle</strong>](https://www.kaggle.com/) and was provided by [<strong>The Ramen Rater</strong>](https://www.kaggle.com/datasets/residentmario/ramen-ratings/discussion/191547), a product 🏪 review website for ramen enthusiasts.
 </p>
 
 ## Data Importation, Cleaning and Exploration
 <p style="font-size:35px;">
- The project began with a thorough examination of the dataset to obtain a first-hand understanding of its contents 📦 and notable observations. The dataset was then loaded into Power Query Editor to clean 🧼 and transform  it by removing redundancies, such as the "Top Ten*" column 🧮 which had **70%** unfilled fields, removing duplicates, and replacing error cells in the **Style** and **Stars** ⭐ columns with the mode and mean respectively. All data types were also changed into their standard and desired format.
+ The project began with a thorough examination of the dataset to obtain a first-hand understanding of its contents 📦 and notable observations. The dataset was then loaded into Power Query Editor to clean 🧼 and transform  it by removing redundancies, such as the "Top Ten*" column 🧮 which had <b>70%</b> unfilled fields, removing duplicates, and replacing error cells in the <b>Style</b> and <b>Stars</b> ⭐ columns with the mode and mean respectively. All data types were also changed into their standard and desired format.
 </p>
 
 ## Advanced Cleaning - Python
 <p style="font-size:35px;">
-  After cleaning and transforming ♻️ the dataset, it was loaded into Jupyter Notebook 🗒️ for further cleaning and exploratory analysis, such as statistical analysis 📉 of the dataset, checking for duplicated and null variables, and identifying the number  of 🔢 unique entries in the dataset. The clean dataset 🧽 was then reloaded into *Excel* and pivot tables 📋 and charts 📈 were created to display the desired findings.
+  After cleaning and transforming ♻️ the dataset, it was loaded into Jupyter Notebook 🗒️ for further cleaning and exploratory analysis, such as statistical analysis 📉 of the dataset, checking for duplicated and null variables, and identifying the number  of 🔢 unique entries in the dataset. The clean dataset 🧽 was then reloaded into <b>Excel</b> and pivot tables 📋 and charts 📈 were created to display the desired findings.
 </p>
 
 ## Insights
