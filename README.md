@@ -14,9 +14,8 @@
 </p>
 
 ## Data Sourcing
-<p style="font-size:45px;">
  The dataset 🗃️ was sourced from [<strong>Kaggle</strong>](https://www.kaggle.com/) and was provided by [<strong>The Ramen Rater</strong>](https://www.kaggle.com/datasets/residentmario/ramen-ratings/discussion/191547), a product 🏪 review website for ramen enthusiasts.
-</p>
+
 
 ## Data Importation, Cleaning and Exploration
 <p style="font-size:35px;">
